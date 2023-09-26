@@ -11,7 +11,7 @@
 body {
   font-family: 'Rajdhani', sans-serif;
   position: relative;
-  font-weight: 600;
+  scroll-behavior: smooth;
 }
 
 html {

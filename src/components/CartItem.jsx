@@ -1,6 +1,6 @@
+import { IconX } from "@tabler/icons-react";
 import { useContext, useEffect, useState } from "react";
 import { CartContext } from "../pages/ProductPage";
-import { IconX } from "@tabler/icons-react";
 
 function CartItem() {
   const [quantity, setQuantity] = useState(1);
